@@ -1,4 +1,4 @@
-Bu proje `proje.html` adlı statik bir web sayfasıdır.
+Bu proje `index.html` adlı statik bir web sayfasıdır.
 
 Hızlı yükleme adımları (Windows PowerShell):
 

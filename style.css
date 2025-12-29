@@ -36,9 +36,9 @@
     height: 80px;
     background-color: rgba(35, 58, 86, 0.4);
     display: flex;
-    justify-content: space-between;  /* logo solda - menü sağda */
+    justify-content: space-between;  
     align-items: center;
-    padding: 0 40px;   /* sağ-sol boşluk */
+    padding: 0 40px;   
     box-sizing: border-box;
     white-space: nowrap; 
 }
